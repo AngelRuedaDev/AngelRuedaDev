@@ -1,13 +1,13 @@
 Hi 👋 My name is Angel Rueda
 ============================
 
-I'm a junior developer always ready to learn new things!
+I am a junior developer passionate about application development. My experience in Kotlin, Java and Python alongside my resilience and desire to learn allow me to adapt to any working style.
 --------------------------------------------------------
 
-I've worked with several programming languages like C#, Java and Python. I've also worked with databases using SQL and lately I'm practicing with non relational databases like MongoDB or Firebase. Also I've used HTML and CSS to build my websites since I was a kid.
+I've worked with several programming languages like Kotlin, Java and Python. I've also worked with databases using SQL and non relational databases like MongoDB or Firebase. Also I've used HTML and CSS to build my websites since I was a kid.
 
 * 🌍  I'm based in Girona
-* 🖥️  See my portfolio at [angelruedadev.netlify.app](http://angelruedadev.netlify.app)
+* 🖥️  See my portfolio at [angelruedadev.github.io/PortfolioWeb/](https://angelruedadev.github.io/PortfolioWeb/)
 * ✉️  You can contact me at [angelrueda115@gmail.com](mailto:angelrueda115@gmail.com)
 * 🧠  I'm learning I’m currently learning mobile apps developing for Android using Kotlin and JetpackCompose.
 
