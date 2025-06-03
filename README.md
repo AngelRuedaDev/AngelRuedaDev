@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="left">I am a junior developer passionate about application development. My experience in Kotlin, Java and Python alongside my resilience and desire to learn allow me to adapt to any working style.</h3>
 
+- 🌍  I'm based in Spain
 - 👨‍💻 All of my projects are available at [https://angelruedadev.github.io/PortfolioWeb/](https://angelruedadev.github.io/PortfolioWeb/)
 - 📫 How to reach me **angelrueda115@gmail.com**
 - 🌱 I’m currently learning **Backend and Android Mobile Development**
